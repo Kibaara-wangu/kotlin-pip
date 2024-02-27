@@ -1,6 +1,8 @@
 fun main() {
-  println(totalsalary(9,600))
+    println(9 * 700)
+
 }
-fun totalsalary(numh:Int, numr:Int):Int{
-    return numh * numr
+
+fun totalsalary(hours: Int, salaryperhour: Int){
+
 }
